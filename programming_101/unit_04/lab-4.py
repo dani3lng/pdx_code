@@ -23,13 +23,14 @@ print(" ")
 # ask player for move
 player = input("Enter your move: ")
 player = player.title()
-print(f"You chose {player}")
-print(" ")
+print(f'''
+You chose {player}''')
 
 # have computer choose move
 computer = random.choice(moves)
 computer = computer.title()
-print(f"Computer chose {computer}")
+print(f'''Computer chose {computer}
+''')
 
 # compare results
 if player == 'Rock' and computer == 'Rock':
