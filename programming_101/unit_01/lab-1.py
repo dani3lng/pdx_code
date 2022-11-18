@@ -1,4 +1,4 @@
-# Unit 1 Lab 1
+# Unit 1 Lab
 # Concatenations
 
 # print("Python is fun!")

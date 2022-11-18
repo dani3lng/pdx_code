@@ -10,7 +10,7 @@ Datatype: list (list)
 
 'Ordered' and 'changeable' sequences of items.
 
-Items are seprated with commas ,
+Items are separated with commas ,
 Lists are defined using square brackets []
 
 Since lists are 'ordered', their items can be retrieved using their positions in the list.

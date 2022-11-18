@@ -1,4 +1,4 @@
-# Unit 2 Lab 2
+# Unit 2 Lab
 # Mab Lib Program
 
 # create MabLib text

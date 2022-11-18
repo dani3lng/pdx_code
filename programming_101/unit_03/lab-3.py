@@ -1,4 +1,4 @@
-# Unit 3 Lab 3
+# Unit 3 Lab
 # Grade Converter Program
 
 # 90-100: A
