@@ -24,6 +24,7 @@ print(" ")
 player = input("Enter your move: ")
 player = player.title()
 print(f"You chose {player}")
+print(" ")
 
 # have computer choose move
 computer = random.choice(moves)
