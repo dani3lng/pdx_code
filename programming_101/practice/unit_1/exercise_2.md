@@ -37,4 +37,4 @@ print("And whether pigs have wings!'")
 
 ## [< Exercise 1](exercise_1.md) | [Exercise 3 >](exercise_3.md)
 
-### [<< Back to Unit 1 Practice](/practice/unit_1/)
+### [<< Back to Unit 1 Practice](/programming_101/practice/unit_1)

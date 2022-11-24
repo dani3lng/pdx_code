@@ -28,4 +28,4 @@ Print a famous quote with the following criteria
 
 ## [< Exercise 3](exercise_3.md)
 
-### [<< Back to Unit 1 Practice](/practice/unit_1/)
+### [<< Back to Unit 1 Practice](/programming_101/practice/unit_1)
