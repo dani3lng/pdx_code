@@ -160,6 +160,6 @@ An escape character is a `\` followed by the character you want to insert.
 
 To practice everything you learned in Unit 1, please complete the following lab:
 
-## <a id="lab"></a> Lab 01: [Hello](/labs/hello.md)
+## <a id="lab"></a> Lab 01: [Hello](/programming_101/labs/hello.md)
 
 [Back to top](#top)
