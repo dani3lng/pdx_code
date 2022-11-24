@@ -29,11 +29,11 @@
 respective comment using the same format as the comment -
 single lines under the single line comments, multi-line under the multi-line comment
 
-### Exercise 1 [Code](programming_101/code/unit_01/exercise-1.py)
+### Exercise 1 [Code](/programming_101/code/unit_01/exercise-1.py)
 ### Exercise 1 [Solution](solutions/exercise_1_solution.md)
 
 ---
 
 ## [Exercise 2 >](exercise_2.md)
 
-### [<< Back to Unit 1 Practice](/practice/unit_1/)
+### [<< Back to Unit 1 Practice](/programming_101/practice/unit_1)
