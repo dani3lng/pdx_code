@@ -21,6 +21,7 @@ Print a famous quote with the following criteria
 
             - Aldous Huxley
 
+### Exercise 4 [Code](/programming_101/code/unit_01/exercise-4.py)
 ### Exercise 4 [solution](solutions/exercise_4_solution.md)
 
 ---

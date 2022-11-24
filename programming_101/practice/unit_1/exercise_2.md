@@ -30,6 +30,7 @@ print("O frabjous day! Callooh! Callay!")
 print("And whether pigs have wings!'")
 ```
 
+### Exercise 2 [Code](/programming_101/code/unit_01/exercise-2.py)
 ### Exercise 2 [solution](solutions/exercise_2_solution.md)
 
 ---

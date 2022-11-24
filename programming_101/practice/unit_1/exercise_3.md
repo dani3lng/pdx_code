@@ -34,6 +34,7 @@ Exchange all instances of a letter within a word with a different
 
     output: Mizzizzippi
 
+### Exercise 3 [Code](/programming_101/code/unit_01/exercise-3.py)
 ### Exercise 3 [solution](solutions/exercise_3_solution.md)
 
 ---
