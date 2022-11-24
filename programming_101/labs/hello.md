@@ -33,6 +33,7 @@ The individual characters in a sentence, including spaces and punctuation. Each 
 Place comments explaining your code.
 
 ---
+### Lab 1 [Code](/programming_101/code/unit_01/lab-1.py)
 
 [Back to Unit 1](https://github.com/PdxCodeGuild/Programming101/blob/master/units/unit-1.md)
 
