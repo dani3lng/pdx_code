@@ -1,0 +1,42 @@
+# Unit 2 Lab Extra Challenge 1
+# Mab Lib Program
+
+# create MabLib text
+'''
+I am traveling to {place} where it is {temp} degrees.
+I packed the following items for the trip:
+- A {adj_1} {item_1}
+- A {adj_2} {item_2}
+- A {adj_3} {item_3}
+'''
+# get while loop requirements
+USER = input("Would you like to play: (y/n) ")
+USER = USER.upper
+while USER == 'Y':
+    # ask user for inputs
+    adj_1 = input("Enter a color: ")
+    adj_2 = input("Enter a size: ")
+    adj_3 = input("Enter an adjective: ")
+    temp = input("Enter an temperature: ")
+    item_1 = input("Enter an item: ")
+    item_2 = input("Enter an item: ")
+    item_3 = input("Enter an item: ")
+    place = input("Enter in a destination: ")
+
+    # insert user inputs into MabLib
+    print(f'''
+    I am traveling to {place} where it is {temp} degrees.
+    I packed the following items for the trip:
+    - A {adj_1} {item_1}
+    - A {adj_2} {item_2}
+    - A {adj_3} {item_3}
+    ''')
+    # get while loop requirements
+    USER = input("Would you like to play: (y/n) ")
+    USER = USER.upper
+    if USER == 'Y':
+        continue
+    elif USER == 'N':
+        break
+    else:
+        print(f"You entered an invalid option")
