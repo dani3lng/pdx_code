@@ -10,9 +10,8 @@ I packed the following items for the trip:
 - A {adj_3} {item_3}
 '''
 # get while loop requirements
-USER = input("Would you like to play: (y/n) ")
-USER = USER.upper
-while USER == 'Y':
+play_again = "y"
+while play_again == 'y':
     # ask user for inputs
     adj_1 = input("Enter a color: ")
     adj_2 = input("Enter a size: ")
@@ -32,11 +31,12 @@ while USER == 'Y':
     - A {adj_3} {item_3}
     ''')
     # get while loop requirements
-    USER = input("Would you like to play: (y/n) ")
-    USER = USER.upper
-    if USER == 'Y':
+    play_again = input("Would you like to play: (y/n) ")
+    if play_again == 'y':
         continue
-    elif USER == 'N':
+    if play_again == 'n':
+        print(f'Thank you for playing Mab Libs')
         break
     else:
-        print(f"You entered an invalid option")
+        print(f'You entered an invalid option')
+        play_again = input("Would you like to play: (y/n) ")
