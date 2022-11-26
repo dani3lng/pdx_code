@@ -40,7 +40,7 @@ Key responsibilities:
 
 ## Extra Challenge 1
 * Make a solution that asks for a number or numbers, and does a mathematical operation printing out the result of the math
-* ### Lab 2 [Code](/programming_101/code/unit_02/lab-2.1.py)
+* ### Challenge 1 [Code](/programming_101/code/unit_02/lab-2.1.py)
 ## Extra Challenge 2
 * Make it a repeatable game using a `while` loop
-* ### Lab 2 [Code](/programming_101/code/unit_02/lab-2.2.py)
+* ### Challenge 2 [Code](/programming_101/code/unit_02/lab-2.2.py)
