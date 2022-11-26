@@ -158,6 +158,6 @@ print(f'Random number: {random_number}')
 [Flow Charts](../docs/flowcharts/README.md) are a great tool for planning the logical flow of a program. Click the link to read more.
 
 ---
-## [Lab 03: Grading](/labs/grading.md)
+## [Lab 03: Grading](/programming_101/labs/grading.md)
 
 [Back to top](#top)
