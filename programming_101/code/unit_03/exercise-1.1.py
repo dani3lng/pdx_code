@@ -4,7 +4,7 @@
 # create 3 variables
 # a = side x
 # b = side y
-# c = hypotenuse
+# c = side z
 
 # assign number to each
 a = 10
