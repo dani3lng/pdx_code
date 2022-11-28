@@ -10,6 +10,7 @@
   
 - `if` the user's `letter` is the same as the `answer`, inform the user they've guessed correctly. Otherwise, inform them they've erred and display the correct answer.
 
+### 2.1 [Code](/programming_101/code/unit_03/exercise-2.1.py)
 ### **2.2**
 
 - Ask the user for a `word`
@@ -31,6 +32,7 @@
       output:
       The word "umbrella" does not contain the letter "Z".
 
+### 2.2 [Code](/programming_101/code/unit_03/exercise-2.2.py)
 ### **2.3**
 
   If the word contains the letter, tell the user how many times the letter is in the word
@@ -41,12 +43,14 @@
       output:
       The word "giraffe" contains the letter "F" 2 times.
 
+### 2.3 [Code](/programming_101/code/unit_03/exercise-2.3.py)
 ### **2.4**
 
   Using string methods, determine if the string the user entered contains only letters, no spaces, numbers or special characters.
 
   `if` the string contains characters **other than letters**, inform the user that those characters aren't allowed.
 
+### 2.4 [Code](/programming_101/code/unit_03/exercise-2.4.py)
 ### Exercise 2 [solution](./solutions/exercise_2_solution.md)
 
 ---
