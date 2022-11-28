@@ -3,7 +3,7 @@ Programming 101
 Unit 5
 '''
 import random
-import string # string  module
+import string # string module
 
 letters = string.ascii_letters
 # print(letters) # abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
