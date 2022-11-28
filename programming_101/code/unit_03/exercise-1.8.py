@@ -1,5 +1,5 @@
 # Unit 3 Practice
-# Exercise 1.7
+# Exercise 1.8
 
 import math
 import random
