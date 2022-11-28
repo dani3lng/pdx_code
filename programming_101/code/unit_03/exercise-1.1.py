@@ -1,7 +1,7 @@
 # Unit 3 Practice
 # Exercise 1
 
-# create 3 variables
+# find perimeter of triangle
 # a = side x
 # b = side y
 # c = side z
