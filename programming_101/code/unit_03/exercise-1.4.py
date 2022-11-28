@@ -1,10 +1,10 @@
 # Unit 3 Practice
-# Exercise 1
+# Exercise 1.4
+
+import math
 
 # find volume of a sphere
 # V = 4/3 * pi * r^3
-
-import math
 
 # assign number to variables
 r = 5

@@ -1,5 +1,5 @@
 # Unit 3 Practice
-# Exercise 1
+# Exercise 1.1
 
 # find perimeter of triangle
 # a = side x

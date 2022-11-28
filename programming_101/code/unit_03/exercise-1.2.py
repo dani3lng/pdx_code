@@ -1,5 +1,5 @@
 # Unit 3 Practice
-# Exercise 1
+# Exercise 1.2
 
 # find area of triangle
 # c = 1/2 * b * h

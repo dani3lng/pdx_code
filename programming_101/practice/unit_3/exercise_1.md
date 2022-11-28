@@ -16,6 +16,7 @@ Let's do a little geometry!
 
       A triangle with sides of 3, 4, and 5 has a perimeter of 12.
 
+### 1.1 [Code](/programming_101/code/unit_03/exercise-1.1.py)
 ---
 
 ### **1.2**
@@ -31,6 +32,7 @@ Let's do a little geometry!
 
       A triangle with a base of 2.8 and a height of 2.02 has an area of 2.828.
 
+### 1.2 [Code](/programming_101/code/unit_03/exercise-1.2.py)
 ---
 
 ### **1.3**
@@ -46,6 +48,7 @@ Let's do a little geometry!
       Circumference: 31.4159...
       Area: 78.5398...
 
+### 1.3 [Code](/programming_101/code/unit_03/exercise-1.3.py)
 ---
 
 ### **1.4**
@@ -59,6 +62,7 @@ Let's do a little geometry!
       Radius: 5
       Volume: 523.5987...
 
+### 1.4 [Code](/programming_101/code/unit_03/exercise-1.4.py)
 ---
 
 ### **1.5**
@@ -74,6 +78,7 @@ Let's do a little geometry!
       Inner Radius: 3
       Area: 50.26548245743669
 
+### 1.5 [Code](/programming_101/code/unit_03/exercise-1.5.py)
 ---
 
 ### **Extra challenges**
@@ -88,18 +93,21 @@ Let's do a little geometry!
 
       A triangle with sides of 65 and 72 has a hypotenuse of 97.
 
+### 1.6 [Code](/programming_101/code/unit_03/exercise-1.6.py)
 ---
 
 ### **1.7**
 
 Use the `random` module to generate **random integer** values for the circle and sphere's `radius` and the triangle's `base` and `height`.
 
+### 1.7 [Code](/programming_101/code/unit_03/exercise-1.7.py)
 ---
 
 ### **1.8**
 
 Have the user enter all number values used in previous versions. Don't forget that `input()` always returns a `string`.
 
+### 1.8 [Code](/programming_101/code/unit_03/exercise-1.8.py)
 ### Exercise 1 [solution](./solutions/exercise_1_solution.md)
 
 ---

@@ -1,11 +1,11 @@
 # Unit 3 Practice
-# Exercise 1
+# Exercise 1.3
+
+import math
 
 # find circumference and area of a circle
 # C = 2 * pi * r or C = pi * d
 # A = pi * r^2
-
-import math
 
 # assign number to variables
 r = 5

@@ -1,12 +1,12 @@
 # Unit 3 Practice
-# Exercise 1
+# Exercise 1.5
+
+import math
 
 # find area of an annulus
 # A = π (R2﹣r2)
 # R = outer radius
 # r = inner radius
-
-import math
 
 # assign number to variables
 R = 5
