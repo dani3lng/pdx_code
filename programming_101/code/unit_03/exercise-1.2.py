@@ -10,7 +10,7 @@
 b = 5
 h = 8
 
-# find perimeter
+# find area
 a = .5 * h * b
 
 # print output
