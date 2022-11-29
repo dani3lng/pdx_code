@@ -20,6 +20,7 @@ Construct a Read, Evaluate, Print, Loop (REPL) which performs the following on e
       
       The loop ran 4 times.
 
+### Exercise 1 [Code](/programming_102/code/unit_02/exercise-1.py)
 ### Exercise 1 [solution](solutions/exercise_1_solution.md)
 
 ---
