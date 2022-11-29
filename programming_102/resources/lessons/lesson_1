@@ -21,7 +21,7 @@ ErrorType: specific error message
 
 # print('hello' # SyntaxError: '(' was never closed
 
-# if the carrot is at the beginning of a line, chances are the rror is above that line
+# if the carrot is at the beginning of a line, chances are the error is above that line
 
 # ------------------------------------------------------------------------------------------ #
 
