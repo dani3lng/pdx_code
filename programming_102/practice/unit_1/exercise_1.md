@@ -12,6 +12,7 @@ Output:
 
     Hello World!
 
+### Exercise 1 [Code](programming_102/code/unit_01/exercise-1.py)
 ### Exercise 1 [solution](solutions/exercise_1_solution.md)
 
 ---

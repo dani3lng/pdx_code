@@ -15,6 +15,7 @@ Output:
     1 is less than three
     Thanks for playing!
 
+### Exercise 2 [Code](programming_102/code/unit_01/exercise-2.py)
 ### Exercise 2 [solution](solutions/exercise_2_solution.md)
 
 ---
