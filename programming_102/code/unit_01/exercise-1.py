@@ -2,4 +2,7 @@
 # Exercise 1
 
 # find error
-print("Hello World!         ############## SyntaxError: unterminated string literal   Correction: print("Hello World!")
+# print("Hello World!         ############## SyntaxError: unterminated string literal   Correction: print("Hello World!")
+      
+# corrected
+print("Hello World!")
