@@ -33,8 +33,8 @@ while True:
         break
         
     # if the user and computer are the same it is a tie
-    if users == computer:                           ############## NameError: name 'users' is not defined
-        print("Looks like a tie"                    ############## SyntaxError: '(' was never closed
+    if users == computer:                           ############## NameError: name 'users' is not defined   Correction: if user == computer:
+        print("Looks like a tie"                    ############## SyntaxError: '(' was never closed        Correction: print("Looks like a tie")
 
     # check all cases if user is rock
     elif user == "rock":
@@ -44,14 +44,14 @@ while True:
             print("You win!")
 
         # check losing case
-        elif computer == "rock":                    ############## LogicError: rock does not lose to rock
+        elif computer == "rock":                    ############## LogicError: rock does not lose to rock   Correction: elif computer == "paper": 
             print("Sorry, You lose.")
 
     # check all cases if user is paper
     elif user == "paper":
 
         # check winning case
-        if computer == "rock"                       ############## SyntaxError: expected ':'
+        if computer == "rock"                       ############## SyntaxError: expected ':'                Correction: if computer == "rock":
             print("You win!")
 
         # check losing case
@@ -67,4 +67,4 @@ while True:
 
         # check losing case
         elif computer == "rock":
-            print("Sorry, You lose.")                ############## NameError: name 'Print' is not defined.
+            Print("Sorry, You lose.")                ############## NameError: name 'Print' is not defined. Correction: print("Sorry, You lose.")  
