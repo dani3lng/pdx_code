@@ -16,5 +16,3 @@ while True:
     elif user == 'no':
         print(f'The loop ran {loops} times.')
         break
-    else:
-        print("You entered an invalid option.")
