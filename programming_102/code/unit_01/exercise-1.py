@@ -2,7 +2,8 @@
 # Exercise 1
 
 # find error
-# print("Hello World!         ############## SyntaxError: unterminated string literal  
-      
+# print("Hello World!         ############## SyntaxError: EOL while scanning string literal
+                                ############## SyntaxError: unexpected EOF while parsing
+                       
 # corrected
 print("Hello World!")
