@@ -33,7 +33,7 @@ example_dict = {'a':11, 'b': 22, 'c': 33}
 
 example_dict = {
     # key: value,
-    'a':11, 
+    'a': 11, 
     'b': 22, 
     'c': 33
 }
@@ -42,7 +42,7 @@ example_dict = {
 # ------------------------------------------------------------------------------- #
 
 # dictionary values are retrieved by placing their keys
-# in SQUARE brackets after the dictionar's name
+# in SQUARE brackets after the dictionary's name
 
 # print(example_dict['a']) # 11
 # print(example_dict['b']) # 22
