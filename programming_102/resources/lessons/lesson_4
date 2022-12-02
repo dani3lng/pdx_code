@@ -24,7 +24,7 @@ random_letter = random.choice(letters)
 # print(random_number, random_letter, letters)
 # ------------------------------------------------ #
 
-# import SPECEFIC attributes from a module
+# import SPECIFIC attributes from a module
 # keywords: from / import
 # from <MODULE_NAME> import <ATTRIBUTE_1>, <ATTRIBUTE_2>, .....
 
