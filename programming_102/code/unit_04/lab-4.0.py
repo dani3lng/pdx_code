@@ -7,12 +7,12 @@ word_1 = input("Enter your first word: ")
 word_2 = input("Enter your second word: ")
 
 # sort the strings into lists
-list_1 =list(word_1)
+list_1 = list(word_1)
 list_2 = list(word_2)
 
 # sort each list
-list_1.sort(reverse=True)
-list_2.sort(reverse=True)
+list_1.sort()
+list_2.sort()
 
 # display results
 if list_1 == list_2:
