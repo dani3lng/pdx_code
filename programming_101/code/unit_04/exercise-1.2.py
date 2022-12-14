@@ -1,5 +1,5 @@
-# Unit 3 Practice
-# Exercise 1.1
+# Unit 4 Practice
+# Exercise 1.2
 
 # create list
 num_list = [3, 3, 10, 5, 4, 5, 6, 5, 7, 2]
