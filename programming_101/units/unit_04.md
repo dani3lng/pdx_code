@@ -93,6 +93,6 @@ Hello
 Hello
 ```
 
-#### Lab 06: [Rock, Paper, Scissors](/labs/rps.md)
+#### Lab 06: [Rock, Paper, Scissors](/programming_101/labs/rps.md)
 
 [Back to top](#top)

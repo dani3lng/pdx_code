@@ -35,6 +35,7 @@ NOTE: Do not use index positions during the lab to target any values
 |scissors |rock|Computer|
 |scissors |paper|Human|
 
+### Lab [Code](/programming_101/code/unit_04/lab-4.py)
 
 ## Extra Challenge 1
 
