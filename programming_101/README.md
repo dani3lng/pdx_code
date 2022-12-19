@@ -27,6 +27,6 @@ Below is a list of helpful links.
 | Online Code Editor | [Repl.it](https://repl.it) | Cloud-based editor and interpreter |
 | Compare two code snippets | [DiffChecker](https://www.diffchecker.com/) | Great tool to compare two code files side-by-side |
 | Learning Resources | [Guide](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md) | | Future Intro Classes | [Eventbrite](https://www.eventbrite.com/o/pdx-code-guild-17959456298) |
-| W3Schools | [Python](https://www.w3schools.com/python/default.asp) | | | Python Tutorial |
+| W3Schools | [Python](https://www.w3schools.com/python/default.asp) | | | [Python Tutorial] |
 
 [Back to top](#top)
