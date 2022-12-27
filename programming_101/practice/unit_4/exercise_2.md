@@ -11,12 +11,16 @@ Loop through the list of numbers and calculate the `sum`.
     numbers: 1, 4, 6, 4, 6, 4, 5, 9
     sum: 39
 
+### Exercise 2.1 [Code](/programming_101/code/unit_04/exercise-2.1.py)
+
 ### **2.2**
 
 Loop through the list of numbers and calculate the `mean` (average).
 
     numbers: 1, 4, 6, 4, 6, 4, 5, 9
     mean: 4.875
+
+### Exercise 2.2 [Code](/programming_101/code/unit_04/exercise-2.2.py)
 
 ### **2.3**
 
@@ -28,6 +32,8 @@ Loop through the list of numbers and calculate the `mode`.
 
     mode: 8
     The number 8 appears 4 times.
+
+### Exercise 2.3 [Code](/programming_101/code/unit_04/exercise-2.3.py)
 
 ### Exercise 2 [solution](./solutions/exercise_2_solution.md)
 

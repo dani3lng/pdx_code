@@ -14,6 +14,8 @@ numbers: [3, 3, 10, 5, 4, 5, 6, 5, 7, 2]
 
     Less than five: [3, 3, 5, 4, 5, 5, 2]
 
+### Exercise 1.1 [Code](/programming_101/code/unit_04/exercise-1.1.py)
+
 ### **1.2**
 
 Count the number of times the number 5 occurs in your list.
@@ -24,6 +26,8 @@ Count the number of times the number 5 occurs in your list.
 
     The number 5 occurs 3 times.
 
+### Exercise 1.2 [Code](/programming_101/code/unit_04/exercise-1.2.py)
+
 ### **1.3**
 
 Change the value of each number in the list to be the square of itself. Then print the new list.
@@ -33,6 +37,8 @@ Change the value of each number in the list to be the square of itself. Then pri
     numbers: [3, 3, 10, 5, 4, 5, 6, 5, 7, 2]
 
     [9, 9, 100, 25, 16, 25, 36, 25, 49, 4]
+
+### Exercise 1.3 [Code](/programming_101/code/unit_04/exercise-1.3.py)
 
 ### Exercise 1 [solution](./solutions/exercise_1_solution.md)
 

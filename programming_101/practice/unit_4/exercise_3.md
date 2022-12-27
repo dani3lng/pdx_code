@@ -11,6 +11,7 @@ Loop through the list of numbers and switch each number to its opposite sign. Ne
     numbers: [10, -36, 6, -39, -96, 13, -35, 83, -52, 86]
     flipped: [-10, 36, -6, 39, 96, -13, 35, -83, 52, -86]
 
+### Exercise 3 [Code](/programming_101/code/unit_04/exercise-3.1.py)
 ### Exercise 3 [solution](./solutions/exercise_3_solution.md)
 
 ---
