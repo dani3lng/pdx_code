@@ -6,6 +6,8 @@
 
 Using a `for` loop, ask the user for the name of three items (animals, colors, fruits, or whatever you'd like).
 
+### Exercise 4.1 [Code](/programming_101/code/unit_04/exercise-4.1.py)
+
 ### **4.2**
 
 Loop through the user's list and with iteration, print both the item and all the letters in the item.
@@ -32,6 +34,8 @@ Loop through the user's list and with iteration, print both the item and all the
     m
     a
 
+### Exercise 4.2 [Code](/programming_101/code/unit_04/exercise-4.2.py)
+
 ### **4.3**
 
 Loop through the list.
@@ -48,6 +52,8 @@ Create a list of the characters that occur in the words. If a letter has already
 
     Letters used:
     ['l', 'y', 'n', 'x', 'o', 'c', 'e', 't', 'p', 'u', 'm', 'a']
+
+### Exercise 4.3 [Code](/programming_101/code/unit_04/exercise-4.3.py)
 
 ### Exercise 4 [solution](./solutions/exercise_4_solution.md)
 
