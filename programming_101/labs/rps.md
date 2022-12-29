@@ -40,13 +40,13 @@ NOTE: Do not use index positions during the lab to target any values
 ## Extra Challenge 1
 
 Catch all tie conditions using a single if conditional.
-
+### Challenge 1 [Code](/programming_101/code/unit_04/lab-4.1.py)
 ## Extra Challenge 2
 
 Ask the user if they want to play again, using a while loop.
-
+### Challenge 2 [Code](/programming_101/code/unit_05/lab-5.1.py)
 ## Extra Challenge 3
 
 Use a dictionary where each key is one of the choices, and the value is what the key loses to.
-
+### Challenge 3 [Code](/programming_101/code/unit_05/lab-5.1.py)
 [//]: # (instructor note: write the tie case, the first case, have them write the others using elif)
