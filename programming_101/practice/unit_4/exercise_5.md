@@ -25,7 +25,7 @@ Reverse the list using a loop and without any methods or built-in functions
 
     [25, 8100, 1849, 2704, 441, 2401, 8464, 1600, 1089, 7056]
 
-### Exercise 5.2 [Code](/programming_101/code/unit_04/exercise-5.1.py)
+### Exercise 5.2 [Code](/programming_101/code/unit_04/exercise-5.2.py)
 
 ### **5.3**
 

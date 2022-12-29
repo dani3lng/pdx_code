@@ -11,7 +11,7 @@ reverse_list = []
 for x in range(1, 10):
     number_list.append(random.randint(1,100))
     
-# create loop reverse numbers
+# create loop to reverse numbers
 list_length = len(number_list)
 for index in range(list_length -1, -1, -1):
     number = number_list[index]
