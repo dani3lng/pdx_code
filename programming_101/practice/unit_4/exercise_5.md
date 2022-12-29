@@ -13,6 +13,8 @@ Count the number of even numbers in the list. **Hint**: You can use `% 2` to det
     Numbers: [64, 3, 55, 94, 40, 56, 40, 69, 54, 3]
     There are 6 evens: [64, 94, 40, 56, 40, 54]
 
+### Exercise 5.1 [Code](/programming_101/code/unit_04/exercise-5.1.py)
+
 ### **5.2**
 
 Reverse the list using a loop and without any methods or built-in functions
@@ -23,6 +25,8 @@ Reverse the list using a loop and without any methods or built-in functions
 
     [25, 8100, 1849, 2704, 441, 2401, 8464, 1600, 1089, 7056]
 
+### Exercise 5.2 [Code](/programming_101/code/unit_04/exercise-5.1.py)
+
 ### **5.3**
 
 Sort the list of numbers in ascending order without using methods or built-in functions.
@@ -31,6 +35,8 @@ Sort the list of numbers in ascending order without using methods or built-in fu
 
     numbers: [62, 23, 56, 30, 55, 60, 31, 91, 93, 45]
     sorted:  [23, 30, 31, 45, 55, 56, 60, 62, 91, 93]
+
+### Exercise 5.3 [Code](/programming_101/code/unit_04/exercise-5.1.py)
 
 ### **Hint:**
 
