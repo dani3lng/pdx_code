@@ -114,13 +114,13 @@ for i in range(len(numbers) - 1):
             # put bubble at list[j+1]
             numbers[j+1] = bubble
 
-            # since a swap occured this loop,
+            # since a swap occurred this loop,
             # set swap to True
             swap = True
 
-        # if no swap occured, break the outer loop
-        if not swap:
-            break
+    # if no swap occurred, break the outer loop
+    if not swap:
+        break
 
 # print after sorting
 print(f'sorted:  {numbers}')
