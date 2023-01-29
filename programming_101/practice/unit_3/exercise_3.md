@@ -8,8 +8,6 @@ You've got a very important message to get out to all your followers on Twitter.
 
 Calculate the number of Tweets required, **rounding up** to the nearest integer.
 
-### Exercise 3 [Code](/code/unit_03/exercise-3.1.py)
-
 ### **3.2**
 
 Ask the user for the `number of characters` in their message
@@ -22,6 +20,7 @@ Ask the user for the `number of characters` in their message
 
 Display different messages to the user depending on how many Tweets their message requires.
 
+### Exercise 3 [Code](/code/unit_03/exercise-3.1.py)
 ### Exercise 3 [solution](./solutions/exercise_3_solution.md)
 
 ---
