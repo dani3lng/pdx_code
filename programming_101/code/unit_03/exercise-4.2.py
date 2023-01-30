@@ -2,8 +2,8 @@
 # Exercise 4.2
 
 # ask for number from user
-number_1 = int(input('Please enter an integer: '))
-number_2 = int(input('Please enter an integer: '))
+number_1 = int(input('Enter the first number: '))
+number_2 = int(input('Enter the second number: '))
 
 # calculate ranges for numbers
 uprange = number_2 + 10
