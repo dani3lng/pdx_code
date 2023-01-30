@@ -71,6 +71,7 @@
 
       34 is not within 20 of 101.
 
+### Exercise 4.3 [Code](/code/unit_03/exercise-4.3.py)
 ### Exercise 4 [solution](./solutions/exercise_4_solution.md)
 
 ---
