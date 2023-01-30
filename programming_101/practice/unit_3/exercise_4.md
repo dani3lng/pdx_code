@@ -19,7 +19,7 @@
     number: 51
     output: 51 is not within 10 of 100.
 
-### Exercise 4 [Code](/code/unit_03/exercise-4.1.py)
+### Exercise 4.1 [Code](/code/unit_03/exercise-4.1.py)
 ### **4.2**
 
 - Have the user enter values for `number_1` and `number_2`.
@@ -42,7 +42,7 @@
     Enter the second number: 15
     output: 95 is not within 10 of 15.
 
-### Exercise 4 [Code](/code/unit_03/exercise-4.2.py)
+### Exercise 4.2 [Code](/code/unit_03/exercise-4.2.py)
 ### **4.3**
 
 - Have the user enter values for `number_1` and `number_2`.
