@@ -42,6 +42,7 @@
     Enter the second number: 15
     output: 95 is not within 10 of 15.
 
+### Exercise 4 [Code](/code/unit_03/exercise-4.2.py)
 ### **4.3**
 
 - Have the user enter values for `number_1` and `number_2`.
