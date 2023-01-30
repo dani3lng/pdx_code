@@ -19,6 +19,7 @@
     number: 51
     output: 51 is not within 10 of 100.
 
+### Exercise 4 [Code](/code/unit_03/exercise-4.1.py)
 ### **4.2**
 
 - Have the user enter values for `number_1` and `number_2`.
