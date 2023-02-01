@@ -28,6 +28,7 @@ It's past your bedtime! Let's count some sheep to lull you to sleep.
 
     ...zZzZzZzZ...
 
+### Exercise 1 [Code](/code/unit_05/exercise-1.1.py)
 ### Exercise 1 [solution](./solutions/exercise_1_solution.md)
 
 ---
