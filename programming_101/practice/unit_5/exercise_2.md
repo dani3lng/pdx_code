@@ -120,6 +120,7 @@ If a number is a **multiple of 3** **_and_** a **multiple of 5**, print `FizzBuz
     99: Fizz
     100: Buzz
 
+### Exercise 2 [Code](/code/unit_05/exercise-2.0.py)
 ### Exercise 2 [solution](./solutions/exercise_2_solution.md)
 
 ---
