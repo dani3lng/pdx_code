@@ -1,21 +1,26 @@
 # Unit 5 Practice
-# Exercise 1.1
+# Exercise 2.1
 
-import random
+# initialize list
+number_list = []
 
-# set variables 
-awake = True
-count = 0
+# set variables
+x = 0
+y = 0
 
-# create random variable number
-number = random.randint(1,10)
+# populate list
+list_length = len(number_list)
+for x in range(1, 101):
+    number_list.append(x)
 
 # create while loop
-while awake == True:
-    count += 1
-    print(f'{count} sheep - baa!')
-    if count == number:
-        print("...zZzZzZzZ...")
-        awake = False
+for x in number_list:
+    y += 1
+    if y % 15 == 0:
+        print(f"{x}: FizzBuzz")
+    elif y % 3 == 0:
+        print(f"{x}: Fizz")
+    elif y % 5 == 0:
+        print(f"{x}: Buzz")
     else:
-        continue
+        print(f"{x}: {y}")
